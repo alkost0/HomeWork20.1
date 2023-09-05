@@ -1,0 +1,70 @@
+[
+  {
+    "model": "product.product",
+    "pk": 1,
+    "fields": {
+      "product_name": "╧хЁт√щ",
+      "descriptions": "╣1",
+      "image": "product/2019-01-23_10-09-03.png",
+      "category": 1,
+      "price": "100.00",
+      "date_create": "2023-09-05T20:46:28.793Z",
+      "date_update": "2023-09-05T20:46:28.793Z"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 2,
+    "fields": {
+      "product_name": "┬ЄюЁющ",
+      "descriptions": "╣2",
+      "image": "product/2019-01-23_10-09-17.png",
+      "category": 1,
+      "price": "200.00",
+      "date_create": "2023-09-05T20:46:47.793Z",
+      "date_update": "2023-09-05T20:46:47.793Z"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 3,
+    "fields": {
+      "product_name": "╥ЁхЄшщ",
+      "descriptions": "╣3",
+      "image": "product/2019-01-23_10-09-29.png",
+      "category": 2,
+      "price": "300.00",
+      "date_create": "2023-09-05T20:47:01.691Z",
+      "date_update": "2023-09-05T20:47:01.691Z"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 4,
+    "fields": {
+      "product_name": "╫хЄтхЁЄ√щ",
+      "descriptions": "╣4",
+      "image": "product/2019-01-23_10-09-49.png",
+      "category": 2,
+      "price": "400.00",
+      "date_create": "2023-09-05T20:47:19.703Z",
+      "date_update": "2023-09-05T20:47:19.703Z"
+    }
+  },
+  {
+    "model": "product.category",
+    "pk": 1,
+    "fields": {
+      "category_name": "╬ёэютэр ",
+      "description": "╤ЄрЁЄютр "
+    }
+  },
+  {
+    "model": "product.category",
+    "pk": 2,
+    "fields": {
+      "category_name": "─юяюыэшЄхы№эр ",
+      "description": "╬яЎшюэры№эю ъ юёэютэющ"
+    }
+  }
+]
