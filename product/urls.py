@@ -1,8 +1,8 @@
 from django.urls import path
-from product.apps import CatalogConfig
+from product.apps import ProductConfig
 from product.views import index, contacts, category, category_products, product
 
-app_name = CatalogConfig.name
+app_name = ProductConfig.name
 
 urlpatterns = [
     path('', index, name='index'),
